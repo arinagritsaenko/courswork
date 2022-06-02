@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\Pattern1\\Pattern1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj",
+        "projectName": "CommandsLib",
+        "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj",
+        "projectName": "DatabaseEntities",
+        "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\Pattern1\\Pattern1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\Pattern1\\Pattern1.csproj",
+        "projectName": "Pattern1",
+        "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\Pattern1\\Pattern1.csproj",
+        "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\Pattern1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj"
+              },
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj"
+              },
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\TCPConnectionAPIClientModule(C-sharp)\\TCPConnectionAPIClientModule(C-sharp).csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\TCPConnectionAPIClientModule(C-sharp)\\TCPConnectionAPIClientModule(C-sharp).csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\TCPConnectionAPIClientModule(C-sharp)\\TCPConnectionAPIClientModule(C-sharp).csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\TCPConnectionAPIClientModule(C-sharp)\\TCPConnectionAPIClientModule(C-sharp).csproj",
+        "projectName": "TCPConnectionAPIClientModule(C-sharp)",
+        "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\TCPConnectionAPIClientModule(C-sharp)\\TCPConnectionAPIClientModule(C-sharp).csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj"
+              },
+              "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Дмитрий\\source\\repos\\Выбор перевозчика методом предпочтений (на прим. мор. порта)\\DatabaseEntities\\DatabaseEntities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

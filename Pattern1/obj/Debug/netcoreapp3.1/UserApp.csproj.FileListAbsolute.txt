@@ -1,0 +1,125 @@
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.exe
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll.config
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.deps.json
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.json
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.dev.json
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.xml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\AddUser.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\Authorization.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserControl.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.lref
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\AddUser.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\Authorization.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserControl.baml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.g.resources
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfoInputs.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfo.cs
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CopyComplete
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\Pattern1\obj\Debug\netcoreapp3.1\UserApp.genruntimeconfig.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.exe
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll.config
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.deps.json
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll.config
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.xml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\AddUser.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\Authorization.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserControl.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.lref
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\AddUser.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\Authorization.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserControl.baml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.g.resources
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\Pattern1\obj\Debug\netcoreapp3.1\UserApp.genruntimeconfig.cache
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.exe
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll.config
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.deps.json
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.json
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.runtimeconfig.dev.json
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.pdb
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\DatabaseEntities.dll.config
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\Арина\source\repos\курсач\Pattern1\bin\Debug\netcoreapp3.1\EntityFramework.xml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csprojAssemblyReference.cache
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\AddUser.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\Authorization.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserControl.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.cache
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp_MarkupCompile.lref
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\AddEditObj.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\AddUser.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\Authorization.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\ExpertMethod.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserControl.baml
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.g.resources
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfoInputs.cache
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.AssemblyInfo.cs
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.csproj.CopyComplete
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.dll
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.pdb
+C:\Users\Арина\source\repos\курсач\Pattern1\obj\Debug\netcoreapp3.1\UserApp.genruntimeconfig.cache

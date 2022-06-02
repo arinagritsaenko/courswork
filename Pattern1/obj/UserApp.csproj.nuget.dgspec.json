@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj",
+        "projectName": "CommandsLib",
+        "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj",
+        "projectName": "DatabaseEntities",
+        "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj",
+        "projectName": "UserApp",
+        "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj",
+        "packagesPath": "C:\\Users\\Арина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Арина\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj"
+              },
+              "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj"
+              },
+              "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj",
+        "projectName": "ClientModule",
+        "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj"
+              },
+              "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj": {
+                "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

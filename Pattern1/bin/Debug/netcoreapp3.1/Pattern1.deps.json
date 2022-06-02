@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pattern1/1.0.0": {
+        "dependencies": {
+          "ClassLibraryForTCPConnectionAPI(C-sharp)": "1.0.0",
+          "DatabaseEntities": "1.0.0",
+          "TCPConnectionAPIClientModule(C-sharp)": "1.0.0"
+        },
+        "runtime": {
+          "Pattern1.dll": {}
+        }
+      },
+      "ClassLibraryForTCPConnectionAPI(C-sharp)/1.0.0": {
+        "dependencies": {
+          "DatabaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryForTCPConnectionAPI(C-sharp).dll": {}
+        }
+      },
+      "DatabaseEntities/1.0.0": {
+        "runtime": {
+          "DatabaseEntities.dll": {}
+        }
+      },
+      "TCPConnectionAPIClientModule(C-sharp)/1.0.0": {
+        "dependencies": {
+          "ClassLibraryForTCPConnectionAPI(C-sharp)": "1.0.0",
+          "DatabaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "TCPConnectionAPIClientModule(C-sharp).dll": {}
+        }
+      },
+      "EntityFramework/6.0.0.0": {
+        "runtime": {
+          "EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.400.420.21404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryForTCPConnectionAPI(C-sharp)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPConnectionAPIClientModule(C-sharp)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

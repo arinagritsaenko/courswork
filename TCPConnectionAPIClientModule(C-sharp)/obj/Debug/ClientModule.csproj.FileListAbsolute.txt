@@ -1,0 +1,34 @@
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csproj.CopyComplete
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Выбор перевозчика методом парных сравнений на примере порта\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csprojAssemblyReference.cache
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csproj.CoreCompileInputs.cache
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\ClientModule.csproj.CopyComplete
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\Арина\source\repos\курсач\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb

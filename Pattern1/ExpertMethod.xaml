@@ -1,0 +1,112 @@
+﻿<Window x:Class="Pattern1.ExpertMethod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pattern1"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="Экспертный метод" Height="340" Width="480">
+    <Window.Background>
+        <SolidColorBrush Color="LightBlue"></SolidColorBrush>
+    </Window.Background>
+    <Grid x:Name="Predp">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="6*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="Z1" HorizontalAlignment="Center" FontSize="20" TextAlignment="Center"/>
+        <TextBlock Grid.Column="2" Grid.Row="1" Text="Z2" HorizontalAlignment="Center" FontSize="20" TextAlignment="Center"/>
+        <TextBlock Grid.Column="3" Grid.Row="1" Text="Z3" HorizontalAlignment="Center" FontSize="20" TextAlignment="Center"/>
+        <TextBlock Grid.Column="4" Grid.Row="1" Text="Z4" HorizontalAlignment="Center" FontSize="20" TextAlignment="Center"/>
+        <TextBlock Grid.Column="5" Grid.Row="1" Text="Z5" HorizontalAlignment="Center" FontSize="20" TextAlignment="Center"/>
+
+        <TextBlock Grid.Column="7" Grid.Row="0" Text="Z1 - перевозчик 1" HorizontalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+        <TextBlock Grid.Column="7" Grid.Row="1" Text="Z2 - перевозчик 2" HorizontalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+        <TextBlock Grid.Column="7" Grid.Row="2" Text="Z3 - перевозчик 3" HorizontalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+        <TextBlock Grid.Column="7" Grid.Row="3" Text="Z4 - перевозчик 4" HorizontalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+        <TextBlock Grid.Column="7" Grid.Row="4" Text="Z5 - перевозчик 5" HorizontalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+
+        <TextBlock Grid.Column="1" Grid.Row="0" Text="Исходная матрица предпочтений" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="text1" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="14" TextAlignment="Center"/>
+        <TextBlock x:Name="text2" Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="outcome" Grid.Column="1" Grid.Row="8" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="14" TextAlignment="Center"/>
+
+
+        <ComboBox Name="Z1" Grid.Column="1" Grid.Row="2" Margin="1, 1, 1, 1" FontSize="20">
+            <TextBlock>1</TextBlock>
+            <TextBlock>2</TextBlock>
+            <TextBlock>3</TextBlock>
+            <TextBlock>4</TextBlock>
+            <TextBlock>5</TextBlock>
+        </ComboBox>
+        <ComboBox Name="Z2" Grid.Column="2" Grid.Row="2" Margin="1, 1, 1, 1" FontSize="20">
+            <TextBlock>1</TextBlock>
+            <TextBlock>2</TextBlock>
+            <TextBlock>3</TextBlock>
+            <TextBlock>4</TextBlock>
+            <TextBlock>5</TextBlock>
+        </ComboBox>
+        <ComboBox Name="Z3" Grid.Column="3" Grid.Row="2" Margin="1, 1, 1, 1" FontSize="20">
+            <TextBlock>1</TextBlock>
+            <TextBlock>2</TextBlock>
+            <TextBlock>3</TextBlock>
+            <TextBlock>4</TextBlock>
+            <TextBlock>5</TextBlock>
+        </ComboBox>
+        <ComboBox Name="Z4" Grid.Column="4" Grid.Row="2" Margin="1, 1, 1, 1" FontSize="20">
+            <TextBlock>1</TextBlock>
+            <TextBlock>2</TextBlock>
+            <TextBlock>3</TextBlock>
+            <TextBlock>4</TextBlock>
+            <TextBlock>5</TextBlock>
+        </ComboBox>
+        <ComboBox Name="Z5" Grid.Column="5" Grid.Row="2" Margin="1, 1, 1, 1" FontSize="20">
+            <TextBlock>1</TextBlock>
+            <TextBlock>2</TextBlock>
+            <TextBlock>3</TextBlock>
+            <TextBlock>4</TextBlock>
+            <TextBlock>5</TextBlock>
+        </ComboBox>
+
+        <TextBlock x:Name="Tz1" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="Tz2" Grid.Column="2" Grid.Row="4" HorizontalAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="Tz3" Grid.Column="3" Grid.Row="4" HorizontalAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="Tz4" Grid.Column="4" Grid.Row="4" HorizontalAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="Tz5" Grid.Column="5" Grid.Row="4" HorizontalAlignment="Center" FontSize="20" />
+
+        <TextBlock x:Name="Rez_Z1" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="Rez_Z2" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="Rez_Z3" Grid.Column="3" Grid.Row="5" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="Rez_Z4" Grid.Column="4" Grid.Row="5" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="Rez_Z5" Grid.Column="5" Grid.Row="5" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+
+        <TextBlock x:Name="w1" Grid.Column="1" Grid.Row="7" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="w2" Grid.Column="2" Grid.Row="7" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="w3" Grid.Column="3" Grid.Row="7" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="w4" Grid.Column="4" Grid.Row="7" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="w5" Grid.Column="5" Grid.Row="7" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"/>
+
+        <Button Grid.Column="7" Grid.Row="6" Content="OK" Click="Button_OK" Margin="4, 2, 2, 4" FontSize="18"/>
+        <Button Grid.Column="7" Grid.Row="7" Content="Сброс" Click="Button_Reset" Margin="4, 2, 2, 4" FontSize="18"/>
+        <Button Grid.Column="7" Grid.Row="8" Content="Выход" Click="Button_Out" Margin="4, 2, 2, 4" FontSize="18"/>
+
+
+    </Grid>
+</Window>

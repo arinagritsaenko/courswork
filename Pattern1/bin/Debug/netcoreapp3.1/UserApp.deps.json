@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UserApp/1.0.0": {
+        "dependencies": {
+          "ClientModule": "1.0.0",
+          "CommandsLib": "1.0.0",
+          "DatabaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "UserApp.dll": {}
+        }
+      },
+      "ClientModule/1.0.0": {
+        "dependencies": {
+          "CommandsLib": "1.0.0",
+          "DatabaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "TCPConnectionAPIClientModule(C-sharp).dll": {}
+        }
+      },
+      "CommandsLib/1.0.0": {
+        "dependencies": {
+          "DatabaseEntities": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryForTCPConnectionAPI(C-sharp).dll": {}
+        }
+      },
+      "DatabaseEntities/1.0.0": {
+        "runtime": {
+          "DatabaseEntities.dll": {}
+        }
+      },
+      "EntityFramework/6.0.0.0": {
+        "runtime": {
+          "EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.400.420.21404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClientModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

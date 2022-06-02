@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClientModule/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CommandsLib": "1.0.0",
+          "DatabaseEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClientModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientModule.dll": {}
+        }
+      },
+      "CommandsLib/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DatabaseEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CommandsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandsLib.dll": {}
+        }
+      },
+      "DatabaseEntities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DatabaseEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientModule/1.0.0": {
+      "type": "project",
+      "path": "../TCPConnectionAPIClientModule(C-sharp)/ClientModule.csproj",
+      "msbuildProject": "../TCPConnectionAPIClientModule(C-sharp)/ClientModule.csproj"
+    },
+    "CommandsLib/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryForTCPConnectionAPI(C-sharp)/CommandsLib.csproj",
+      "msbuildProject": "../ClassLibraryForTCPConnectionAPI(C-sharp)/CommandsLib.csproj"
+    },
+    "DatabaseEntities/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseEntities/DatabaseEntities.csproj",
+      "msbuildProject": "../DatabaseEntities/DatabaseEntities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ClientModule >= 1.0.0",
+      "CommandsLib >= 1.0.0",
+      "DatabaseEntities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Арина\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj",
+      "projectName": "UserApp",
+      "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\UserApp.csproj",
+      "packagesPath": "C:\\Users\\Арина\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Арина\\source\\repos\\курсач\\Pattern1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Арина\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj": {
+              "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\ClassLibraryForTCPConnectionAPI(C-sharp)\\CommandsLib.csproj"
+            },
+            "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj": {
+              "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\DatabaseEntities\\DatabaseEntities.csproj"
+            },
+            "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj": {
+              "projectPath": "C:\\Users\\Арина\\source\\repos\\курсач\\TCPConnectionAPIClientModule(C-sharp)\\ClientModule.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
